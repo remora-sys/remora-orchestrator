@@ -38,8 +38,8 @@ prometheus-parse = { git = "https://github.com/asonnino/prometheus-parser.git", 
 
 # Sui repo dependencies
 mysten-metrics = { git = "https://github.com/Scofield626/sui.git", branch = "dev-pre-sched" }
+remora = { git = "https://github.com/Scofield626/sui.git", branch = "dev-pre-sched" }
 
-remora = { path = "../remora" }
 
 [dev-dependencies]
 tempfile = "3.0"
