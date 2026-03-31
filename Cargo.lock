@@ -7137,7 +7137,7 @@ checksum = "7a2d987857b319362043e95f5353c0535c1f58eec5336fdfcf626430af7def58"
 [[package]]
 name = "remora"
 version = "0.1.0"
-source = "git+https://github.com/Scofield626/sui.git?branch=dev-pre-sched#45f349cbbea5561c7dd391a0c43bdbf84b6b4997"
+source = "git+https://github.com/remora-sys/remora.git?branch=main#e4c2385e2e8279561ae50f0c8bc3015f49a0f6f3"
 dependencies = [
  "anyhow",
  "async-trait",

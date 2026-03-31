@@ -46,7 +46,7 @@ pub struct Opts {
     #[clap(
         long,
         value_name = "FILE",
-        default_value = "crates/remora-orchestrator/assets/settings.yml",
+        default_value = "assets/settings.yml",
         global = true
     )]
     settings_path: String,

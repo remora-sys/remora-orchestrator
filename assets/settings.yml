@@ -7,8 +7,8 @@ regions:
   - us-east-1
 specs: m5d.8xlarge
 repository:
-  url: https://github.com/Scofield626/sui
-  commit: pre-sched
+  url: https://github.com/remora-sys/remora
+  commit: main 
 node_parameters_path: "crates/remora-orchestrator/assets/node-parameters.yml"
 client_parameters_path: "crates/remora-orchestrator/assets/client-parameters-contention.yml"
 dedicated_clients: 1
